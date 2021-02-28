@@ -1,3 +1,4 @@
+"""программа, которая рисует диаграмму Вороного, параметры задаются при запуске программы"""
 import numpy as np
 from tqdm import tqdm
 import matplotlib as mpl
