@@ -1,3 +1,4 @@
+#данная программа прекрасно ищет вершины на изображении с тонкими линиями 
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image, ImageOps
